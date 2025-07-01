@@ -166,3 +166,4 @@
 /home/knoldus/Desktop/HealXAutomationFramework/obj/Debug/net8.0/HealXAutomationFramework.pdb
 /home/knoldus/Desktop/HealXAutomationFramework/obj/Debug/net8.0/HealXAutomationFramework.genruntimeconfig.cache
 /home/knoldus/Desktop/HealXAutomationFramework/obj/Debug/net8.0/ref/HealXAutomationFramework.dll
+/home/knoldus/Desktop/HealXAutomationFramework/obj/Debug/net8.0/HealXAutomationFramework.sourcelink.json
